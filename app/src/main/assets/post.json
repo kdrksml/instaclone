@@ -1,0 +1,42 @@
+[
+  {
+    "userName":"Brad Pitt",
+    "profileImage":"https://www.themoviedb.org/t/p/original/1k9MVNS9M3Y4KejBHusNdbGJwRw.jpg",
+    "likeCount":153,
+    "commentCount":44,
+    "description":"Most beautiful city in the world is absolutely Bolu  ",
+    "postImage":"https://upload.wikimedia.org/wikipedia/commons/2/20/Lake_G%C3%B6lc%C3%BCk_06.jpg"
+  },
+  {
+    "userName":"omerdurmaz",
+    "profileImage":"https://myhero.com/images/guest/g293093/hero114678/416x416.jpg",
+    "likeCount":787,
+    "commentCount":78,
+    "description":"Hızlı ve Öfkeli 10, 19 Mayısta sinemalarda",
+    "postImage":"https://tr.web.img3.acsta.net/r_654_368/newsv7/21/08/18/10/36/4440142.jpg"
+  },
+  {
+    "userName":"kadirkesimal",
+    "profileImage":"https://www.themoviedb.org/t/p/original/bkgwGq56o5sRcwtCsqSz2wfpxNl.jpg",
+    "likeCount":535,
+    "commentCount":53,
+    "description":"Çamlıhemşinden selamlar.",
+    "postImage":"https://www.rizedeyiz.com/Arsiv/Dosya/WhatsApp-Image-2020-04-14-at-13_39.jpg"
+  },
+  {
+    "userName":"Philosopher ",
+    "profileImage":"https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3M3MS1tY2tpbnNleS0xMTQwLWNoaW1fMS5qcGc.jpg",
+    "likeCount":4444,
+    "commentCount":444,
+    "description":"",
+    "postImage":"https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BkMTcxLTA3NS1nbG95LmpwZw.jpg"
+  },
+  {
+    "userName":"Trabzonspor",
+    "profileImage":"https://upload.wikimedia.org/wikipedia/tr/a/ab/TrabzonsporAmblemi.png",
+    "likeCount":345878,
+    "commentCount":1578,
+    "description":"Muhteşem Galibiyet",
+    "postImage":"https://www.habercuk.com/images/haberler/2021/11/trabzonspor-dan-besiktas-derbisi-sonrasi-zafer-pozu.jpg"
+  }
+]

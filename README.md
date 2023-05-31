@@ -11,12 +11,12 @@ Instaclone,Popüler sosyal medya platformunun temel işlevselliğini ve tasarım
 
 ![Giriş Sayfası](screenshots/loginpage.png)
 
-### Ana Sayfa 1
+### Akış Ekran Görüntüsü 1
 
-![Ana Sayfa 1](screenshots/mainpage_1.png)
+![Ana Sayfa 1](screenshots/mainpage1.png)
 
-### Ana Sayfa 2
+### Akış Ekran Görüntüsü 2
 
-![Ana Sayfa 2](screenshots/mainpage_2.png)
+![Ana Sayfa 2](screenshots/mainpage2.png)
 
 

@@ -81,29 +81,29 @@
 
                         <ImageView
 
-                            android:layout_width="32dp"
-                            android:layout_height="32dp"
+                            android:layout_width="28dp"
+                            android:layout_height="28dp"
                             android:src="@drawable/hearthicon" />
 
                         <ImageView
 
-                            android:layout_width="32dp"
-                            android:layout_height="32dp"
+                            android:layout_width="28dp"
+                            android:layout_height="28dp"
                             android:layout_marginStart="8dp"
                             android:src="@drawable/commenticon" />
 
 
                         <ImageView
-                            android:layout_width="32dp"
-                            android:layout_height="32dp"
+                            android:layout_width="28dp"
+                            android:layout_height="28dp"
                             android:layout_marginStart="8dp"
                             android:src="@drawable/shareicon" />
 
                     </LinearLayout>
 
                     <ImageView
-                        android:layout_width="32dp"
-                        android:layout_height="32dp"
+                        android:layout_width="28dp"
+                        android:layout_height="28dp"
                         android:layout_alignParentEnd="true"
                         android:layout_marginStart="8dp"
                         android:src="@drawable/saveicon" />

@@ -1,17 +1,7 @@
 package com.example.instaclone.ui.login;
 
-import android.app.Activity;
-
-import androidx.lifecycle.Observer;
-import androidx.lifecycle.ViewModelProvider;
-
 import android.content.Intent;
 import android.os.Bundle;
-
-import androidx.annotation.Nullable;
-import androidx.annotation.StringRes;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.KeyEvent;
@@ -23,10 +13,14 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.annotation.Nullable;
+import androidx.annotation.StringRes;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.lifecycle.Observer;
+import androidx.lifecycle.ViewModelProvider;
+
 import com.example.instaclone.MainActivity;
 import com.example.instaclone.R;
-import com.example.instaclone.ui.login.LoginViewModel;
-import com.example.instaclone.ui.login.LoginViewModelFactory;
 import com.example.instaclone.databinding.ActivityLoginBinding;
 
 public class LoginActivity extends AppCompatActivity {

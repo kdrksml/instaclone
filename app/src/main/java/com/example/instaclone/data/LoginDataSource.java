@@ -13,7 +13,7 @@ public class LoginDataSource {
     public Result<LoggedInUser> login(String username, String password) {
 
         try {
-            if (Objects.equals(username ,"kadir" )&& Objects.equals(password, "kesimal")) {
+            if (Objects.equals(username ,"email" )&& Objects.equals(password, "password")) {
 
 
             // TODO: handle loggedInUser authentication
